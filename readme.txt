@@ -23,9 +23,9 @@ to simplify the coding for this project this program ignores missing daily value
 calculating monthly averages.
 
 HOW TO USE:
-Download the Python Weather Project.tar and extract all files, this file contains all 
-files needed EXCEPT the ghcd_all.tar.gz file which was too large to include in this file. 
-The ghcnd_all.tar.gz file must be downloaded from the NOAA ftp site:
+Download the 'Python Weather Project.tar' and extract all files, this file contains all 
+files needed EXCEPT the ghcd_all.tar.gz file which was too large to include in this 
+file. The ghcnd_all.tar.gz file must be downloaded from the NOAA ftp site:
 ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/
 
 The user will be presented with two options 
