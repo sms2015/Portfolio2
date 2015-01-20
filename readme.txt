@@ -23,8 +23,10 @@ to simplify the coding for this project this program ignores missing daily value
 calculating monthly averages.
 
 HOW TO USE:
-download the IS602_FinalProject.tar, this file contains all files needed EXCEPT the 
-ghcd_all.tar.gz file which was too large to include in this file.
+Download the Python Weather Project.tar and extract all files, this file contains all 
+files needed EXCEPT the ghcd_all.tar.gz file which was too large to include in this file. 
+The ghcnd_all.tar.gz file must be downloaded from the NOAA ftp site:
+ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/
 
 The user will be presented with two options 
 Select 0 to run all of the extraction and processing functions to create the 
@@ -40,10 +42,6 @@ copying files, and the extraction and processing can take up to an hour to compl
 
 You must have all of the following files in your directory to run option 0:
 ghcnd_all.tar, ghcnd-inventory.txt, ghcnd-stations.txt,Nino_index.csv
-
-The ghcnd_all.tar.gz file must be downloaded from the NOAA ftp site:
-ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/
-
 
 If 1 is selected the ghcnd_processed.tar file will be used. This archive contains 
 37 files, which contain complete data records (all years, all months between October
